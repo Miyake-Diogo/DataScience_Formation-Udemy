@@ -1,0 +1,1 @@
+Como o gitHub não permite arquivos maiores que 100MB, então extraia o arquivo Train.rar para ver o arquivo Train.csv, depois mude a extensão dele para o Train.csv.gz para usar ele no código.
